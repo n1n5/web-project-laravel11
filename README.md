@@ -1,1 +1,1 @@
-Simple CRUD forum-like web project with SCP lore :)
+Simple CRUD forum-like web project featuring SCP lore :)
